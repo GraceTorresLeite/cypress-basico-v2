@@ -131,7 +131,7 @@ describe('Central de Atendimento ao Cliente TAT', function() {
             .should('have.attr', 'target', '_blank')
 
     })
-    it('elemento tipo âncora (a) seleciona um tipo de elemento target e retira pra abrir na mesma pagina dos testes em Cypress', function() {
+    it('seleciona um tipo de elemento target e retira pra abrir na mesma pagina dos testes em Cypress', function() {
         cy.get('#privacy a')
             .invoke('removeAttr', 'target')
             .click()
