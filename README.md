@@ -1,7 +1,8 @@
 # Testes automatizados com Cypress - Básico
 
 ## Conclusão do curso 
-<img src="img/Cypress certificado.png" width="650" height="300">
+
+<img src="/img/Cypress_certificado.png" width="650" height="300">
 
 👋 Seja bem-vindo(a)!
 
